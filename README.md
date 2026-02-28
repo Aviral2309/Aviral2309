@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Mittal</h1>
-<h3 align="center">Machine Learning • Data Scientist • AI Engineer • Agentic AI • Backend Development </h3>
+<h3 align="center">Machine Learning • Data Science • GenAI • Agentic AI • Backend Development </h3>
 <h3 align="center">Building scalable AI systems by combining Machine Learning, GenAI, strong DSA foundations, and backend engineering.</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Interest-AI%20%7C%20ML-blue?style=for-the-badge">
