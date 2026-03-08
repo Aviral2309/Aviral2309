@@ -74,16 +74,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-
-## 🧩 Core CS Foundations
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-important?style=flat)
-![OOPS](https://img.shields.io/badge/OOPS-blueviolet?style=flat)
-![System Design](https://img.shields.io/badge/System%20Design-critical?style=flat)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-grey?style=flat)
-![DBMS](https://img.shields.io/badge/DBMS-blue?style=flat)
-
----
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aviralmittal2309)  
