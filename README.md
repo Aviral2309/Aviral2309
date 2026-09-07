@@ -16,7 +16,7 @@ I'm a final-year B.Tech Electrical Engineering student at SGSITS Indore (2023–
 Currently prepping for 2026 campus placements across quant/fintech, SDE, and AI/ML roles, with each portfolio project deliberately picked to cover a different failure mode I hadn't tackled yet — evaluation/monitoring, structured generation, and retrieval-heavy agentic systems.
 
 - 🎓 B.Tech Electrical Engineering, SGSITS Indore
-- 💼 Remote Interned at BSD Private Limited on demand forecasting
+- 💼 Interned at Captain Infotech Pvt Ltd on demand forecasting & Categorization.
 - 🌍 Based in Indore, originally from Bhanpura, MP
 
 ---
